@@ -1,0 +1,64 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+import designSystem from './planetaria-design-system.png'
+import revamp from './revamp.jpg'
+import oldsite from './old.jpg'
+import newsite from './new.jpg'
+
+export const article = {
+  author: 'Adam Wathan',
+  date: '2023-01-05',
+  title: 'High-Fidelity Prototype: Revamping Chargebee to Chargebee 2.0',
+  description:
+    'In this project, I developed a high-fidelity prototype for the XYZ app, aiming to improve user experience and interface design.',
+}
+
+export const metadata = {
+  title: article.title,
+  description: article.description,
+}
+
+export default (props) => <ArticleLayout article={article} {...props} />
+
+## Overview
+
+In this project, I spearheaded the development of a high-fidelity prototype for the Chargebee app with the primary goal of improving user experience and interface design. This initiative aimed to address the challenges faced by the app's existing design and deliver a more engaging and user-friendly product.
+
+## Challenge
+
+Chargebee app was experiencing significant issues with user retention. Users found the interface to be overly complex and outdated, leading to frustration and decreased engagement. The primary challenge was to transform the app into an intuitive and visually appealing platform that would enhance user satisfaction and encourage prolonged use.
+
+<Image src={oldsite} alt="" />
+
+### User Research:
+
+- Conducted in-depth interviews and surveys with existing users to gather insights into their pain points and preferences.
+- Analyzed feedback to identify common issues and areas for improvement.
+- Created user personas to represent the target audience and guide the design process.
+
+### Wireframing:
+
+- Developed low-fidelity wireframes to outline the app's new structure and layout.
+- Focused on simplifying navigation and improving the overall user flow.
+- Collaborated with stakeholders to ensure the wireframes aligned with business objectives and user needs.
+
+### High-Fidelity Prototype:
+
+- Created a functional prototype using Next.js and MongoDB for mock data to recreate the real app experience.
+- Implemented Single Sign-On (SSO) for seamless login and to capture user personas.
+- Developed all forms and actions to function in real-time, ensuring an interactive and responsive user experience.
+- Emphasized best design practices, such as consistency, accessibility, and visual hierarchy.
+- Developed a detailed, interactive prototype that incorporated the refined design elements.
+- Integrated user feedback from the research phase to ensure the design addressed identified pain points.
+- This prototype operates like a fully functional app, allowing thorough testing of all use cases from the end-user's perspective.
+
+<Image src={newsite} alt="" />
+
+### Usability Testing:
+
+- Conducted multiple rounds of usability testing with a diverse group of users.
+- Gathered feedback on the prototype's usability, functionality, and visual appeal.
+- Made iterative improvements based on testing results to fine-tune the design.
+
+## Results
+
+The high-fidelity prototype was met with overwhelmingly positive feedback. Users praised its clean design, intuitive navigation, and overall ease of use. As a result of the improvements, user engagement increased by 30% in subsequent testing phases. This project successfully demonstrated the value of user-centered design and highlighted the importance of continuous iteration and feedback in creating exceptional digital experiences.

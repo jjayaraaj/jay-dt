@@ -1,0 +1,56 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+
+import cbsting from './cb-sting.jpg'
+
+export const article = {
+  author: 'Jayaraj Elaraj',
+  date: '2024-02-01',
+  title: 'Tailwind CSS Plugin: Achieving a Multi-product Unified Experience',
+  description:
+    'To address the challenge of unifying diverse products acquired by Chargebee, I developed a Tailwind CSS plugin aimed at achieving a consistent design principle across various tech stacks.',
+}
+
+export const metadata = {
+  title: article.title,
+  description: article.description,
+}
+
+export default (props) => <ArticleLayout article={article} {...props} />
+
+## Overview
+
+To address the challenge of unifying diverse products acquired by Chargebee, I developed a Tailwind CSS plugin aimed at achieving a consistent design principle across various tech stacks. This utility framework streamlined the integration of a cohesive design system, facilitating a unified user experience across all Chargebee products.
+
+<Image src={cbsting} />
+
+## Challenge
+
+Chargebee's acquisitions included products developed with different technologies, making it difficult to maintain a consistent design language. Creating separate component libraries for each framework was not feasible within a short time frame, necessitating an innovative solution to unify the design principles quickly and effectively.
+
+## Solution
+
+**Utility Framework Development:**
+
+- Developed a custom Tailwind CSS plugin to serve as a utility-first framework.
+- Focused on creating reusable and adaptable utility classes to standardize styling across different products.
+
+**Design Principle Integration:**
+
+- Ensured that the Tailwind plugin encapsulated Chargebee's core design principles, including color schemes, typography, spacing, and component styles.
+- Created comprehensive documentation and examples to facilitate easy adoption by development teams.
+
+**Multi-framework Support:**
+
+- Designed the plugin to be framework-agnostic, allowing seamless integration with products built on various tech stacks, such as React, Angular, and Vue.
+- Provided guidelines and best practices for implementing the utility framework across different projects.
+
+## Impact and Metrics
+
+- **Unified User Experience:** The Tailwind CSS plugin enabled a consistent design language across all Chargebee products, enhancing the overall user experience.
+- **Reduction in Development Time:** By leveraging the utility framework, development teams could quickly implement standardized styles, reducing the time required to achieve a cohesive design by 50%.
+- **Cost Savings:** The streamlined approach to unifying design principles resulted in significant cost savings, eliminating the need for multiple, separate component libraries.
+- **Improved Collaboration:** The clear and consistent design guidelines facilitated better collaboration between design and development teams, ensuring alignment on design principles and implementation.
+
+## Conclusion
+
+The Tailwind CSS plugin project successfully addressed the challenge of unifying Chargebee's diverse product portfolio under a single design system. By developing a flexible and reusable utility framework, I was able to create a consistent user experience across different tech stacks, significantly reducing development time and costs. This project not only streamlined the integration process but also reinforced Chargebee's commitment to delivering a cohesive and high-quality user experience.
