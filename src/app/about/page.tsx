@@ -75,43 +75,28 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              I am a Design Technologist with expertise in prototype
-              development, front-end frameworks, design systems, and leadership.
-              I have also completed an Advance Management Program in Marketing
-              from the Indian Institute of Management, Calcutta.
+             Hey there! I’m a Design Technologist with a passion for turning ideas into interactive, user-friendly experiences. My journey has been all about blending creativity with technology, from developing sleek prototypes to mastering front-end frameworks like React, Angular, and Vue.js.
             </p>
             <p>
-              As a leader, I have managed design technology teams and fostered a
-              culture of collaboration and high performance. I value
-              communication and teamwork, which helps me to achieve success in
-              projects.
+             One of my core strengths is building and scaling design systems. I love the challenge of crafting design principles, visual styles, and component libraries that not only maintain brand integrity but also speed up the design and development process. It’s all about making things consistent, efficient, and, of course, beautiful.
             </p>
             <p>
-              I specialise in Design System Development, which involves crafting
-              design principles, visual styles, and component libraries to
-              ensure the quality of projects. This not only maintains brand
-              integrity but also speeds up the design and development process.
+              I’ve also got a strategic side, thanks to an Advanced Management Program in Marketing from IIM Calcutta. This background helps me bring a customer-centric approach to everything I do—whether it’s designing a prototype or leading a team. I’m all about communication, collaboration, and making sure that every project hits the mark.
             </p>
             <p>
-              With my marketing background, I bring a strategic mindset and a
-              knack for customer-centric design. I create prototypes that cater
-              to user needs and business goals to deliver exceptional user
-              experiences.
+              When it comes to prototyping, I’m all about the details. I use top-notch tools to create interactive, intuitive designs that feel just right for the user. My goal? To make sure every click and swipe delivers a seamless experience that’s as functional as it is engaging.
             </p>
             <p>
-              My specialty is creating interactive prototypes that are
-              user-friendly and easy to use. I pay attention to the nitty-gritty
-              details and use top-notch prototyping tools to ensure the final
-              product is a user-centric masterpiece.
+              So whether it’s leading a team, building a design system, or coding up a responsive interface, I’m all in.
             </p>
 
-            <p>
+{/*             <p>
               I am proficient in front-end frameworks like React, Angular, and
               Vue.js. I can craft responsive and user-friendly interfaces that
               enhance the overall user experience.
-            </p>
+            </p> */}
             <h4 className="text-2xl font-semibold italic">
-              Let's work together to create cool things!
+              Let’s create something amazing together!
             </h4>
           </div>
         </div>
