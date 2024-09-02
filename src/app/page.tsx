@@ -366,11 +366,13 @@ export default async function Home() {
               href="https://github.com/jjayaraaj"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
+            target="_blank"
             />
             <SocialLink
               href="https://www.linkedin.com/in/jjayaraaj/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
+              target="_blank"
             />
           </div>
         </div>
