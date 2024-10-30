@@ -73,8 +73,8 @@ export const metadata: Metadata = {
 export default function Projects() {
   return (
     <SimpleLayout
-      title="Projects I've created in my quest to make a mark on the world."
-      intro="I've had the opportunity to work on numerous projects throughout my career, but these are the ones that stand out as my proudest achievements. Each project reflects my commitment to blending design and technology to create exceptional user experiences."
+      title="Projects That Showcase My Passion for Making an Impact"
+      intro="Throughout my career, I’ve tackled a bunch of projects, but these are the ones I’m most proud of. Each one is a testament to my dedication to merging design and technology to create truly standout user experiences."
     >
       <ul
         role="list"

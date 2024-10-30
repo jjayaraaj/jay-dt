@@ -347,29 +347,32 @@ export default async function Home() {
             Systems
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I am Jayaraj, a Design Technologist specializing in prototype
+{/*             I am Jayaraj, a Design Technologist specializing in prototype
             development, front-end frameworks, and design systems. With
             expertise in managing design technology teams and a background in
             marketing, I create user-centric prototypes and interfaces that
             align with business goals. I focus on maintaining brand integrity
-            while accelerating the design and development process.
+            while accelerating the design and development process. */}
+            Hey, I’m Jayaraj! I’m all about bringing creativity and code together to craft seamless digital experiences. My sweet spot is in prototype development, front-end frameworks, and building design systems that really work. With a solid background in managing design tech teams and a bit of marketing savvy, I make sure every project I touch aligns perfectly with business goals and user needs. My mission? To keep things on-brand while speeding up the design and development process—because great design should never slow you down.
           </p>
           <div className="mt-6 flex gap-6">
             {/* <SocialLink href="#" aria-label="Follow on X" icon={XIcon} /> */}
-            <SocialLink
+{/*             <SocialLink
               href="https://www.instagram.com/its_me_jayho/"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
-            />
+            /> */}
             <SocialLink
               href="https://github.com/jjayaraaj"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
+            target="_blank"
             />
             <SocialLink
               href="https://www.linkedin.com/in/jjayaraaj/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
+              target="_blank"
             />
           </div>
         </div>
