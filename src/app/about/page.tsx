@@ -75,22 +75,40 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-             Hey there! I’m a Design Technologist with a passion for turning ideas into interactive, user-friendly experiences. My journey has been all about blending creativity with technology, from developing sleek prototypes to mastering front-end frameworks like React, Angular, and Vue.js.
+              Hey there! I’m a Design Technologist with a passion for turning
+              ideas into interactive, user-friendly experiences. My journey has
+              been all about blending creativity with technology, from
+              developing sleek prototypes to mastering front-end frameworks like
+              React, Angular, and Vue.js.
             </p>
             <p>
-             One of my core strengths is building and scaling design systems. I love the challenge of crafting design principles, visual styles, and component libraries that not only maintain brand integrity but also speed up the design and development process. It’s all about making things consistent, efficient, and, of course, beautiful.
+              One of my core strengths is building and scaling design systems. I
+              love the challenge of crafting design principles, visual styles,
+              and component libraries that not only maintain brand integrity but
+              also speed up the design and development process. It’s all about
+              making things consistent, efficient, and, of course, beautiful.
             </p>
             <p>
-              I’ve also got a strategic side, thanks to an Advanced Management Program in Marketing from IIM Calcutta. This background helps me bring a customer-centric approach to everything I do—whether it’s designing a prototype or leading a team. I’m all about communication, collaboration, and making sure that every project hits the mark.
+              I’ve also got a strategic side, thanks to an Advanced Management
+              Program in Marketing from IIM Calcutta. This background helps me
+              bring a customer-centric approach to everything I do—whether it’s
+              designing a prototype or leading a team. I’m all about
+              communication, collaboration, and making sure that every project
+              hits the mark.
             </p>
             <p>
-              When it comes to prototyping, I’m all about the details. I use top-notch tools to create interactive, intuitive designs that feel just right for the user. My goal? To make sure every click and swipe delivers a seamless experience that’s as functional as it is engaging.
+              When it comes to prototyping, I’m all about the details. I use
+              top-notch tools to create interactive, intuitive designs that feel
+              just right for the user. My goal? To make sure every click and
+              swipe delivers a seamless experience that’s as functional as it is
+              engaging.
             </p>
             <p>
-              So whether it’s leading a team, building a design system, or coding up a responsive interface, I’m all in.
+              So whether it’s leading a team, building a design system, or
+              coding up a responsive interface, I’m all in.
             </p>
 
-{/*             <p>
+            {/*             <p>
               I am proficient in front-end frameworks like React, Angular, and
               Vue.js. I can craft responsive and user-friendly interfaces that
               enhance the overall user experience.
@@ -102,7 +120,7 @@ export default function About() {
         </div>
         <div className="lg:pl-20">
           <ul role="list">
-{/*             <SocialLink
+            {/*             <SocialLink
               href="https://www.instagram.com/its_me_jayho/"
               icon={InstagramIcon}
               className="mt-4"
@@ -113,7 +131,6 @@ export default function About() {
               href="https://github.com/jjayaraaj"
               icon={GitHubIcon}
               className="mt-4"
-              target="_blank"
             >
               Follow on GitHub
             </SocialLink>
@@ -121,14 +138,12 @@ export default function About() {
               href="https://www.linkedin.com/in/jjayaraaj/"
               icon={LinkedInIcon}
               className="mt-4"
-              target="_blank"
             >
               Follow on LinkedIn
             </SocialLink>
             <SocialLink
               href="mailto:jjayaraaj@gmail.com"
               icon={MailIcon}
-              target="_blank"
               className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
             >
               jjayaraaj@gmail.com
