@@ -16,11 +16,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/articles/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/articles/page.js"
-    ],
     "/articles/the-design-systems-revolution-an-sndustry-story/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",

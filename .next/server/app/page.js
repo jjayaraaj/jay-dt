@@ -29,8 +29,6 @@ var map = {
 	],
 	"./achieving-multi-product-unified-experience/page.mdx": [
 		"(rsc)/./src/app/articles/achieving-multi-product-unified-experience/page.mdx",
-		"vendor-chunks/next",
-		"vendor-chunks/@swc",
 		"vendor-chunks/react",
 		"_rsc_src_app_articles_achieving-multi-product-unified-experience_page_mdx"
 	],
@@ -48,8 +46,6 @@ var map = {
 	],
 	"./high-fidelity-prototype-revamping-chargebee/page.mdx": [
 		"(rsc)/./src/app/articles/high-fidelity-prototype-revamping-chargebee/page.mdx",
-		"vendor-chunks/next",
-		"vendor-chunks/@swc",
 		"vendor-chunks/react",
 		"_rsc_src_app_articles_high-fidelity-prototype-revamping-chargebee_page_mdx"
 	],
@@ -79,8 +75,6 @@ var map = {
 	],
 	"./rebranding-transforming-digital-dentity/page.mdx": [
 		"(rsc)/./src/app/articles/rebranding-transforming-digital-dentity/page.mdx",
-		"vendor-chunks/next",
-		"vendor-chunks/@swc",
 		"vendor-chunks/react",
 		"_rsc_src_app_articles_rebranding-transforming-digital-dentity_page_mdx"
 	],
@@ -110,8 +104,6 @@ var map = {
 	],
 	"./sting-ui-design-system-react-and-vue/page.mdx": [
 		"(rsc)/./src/app/articles/sting-ui-design-system-react-and-vue/page.mdx",
-		"vendor-chunks/next",
-		"vendor-chunks/@swc",
 		"vendor-chunks/react",
 		"_rsc_src_app_articles_sting-ui-design-system-react-and-vue_page_mdx"
 	],
@@ -137,8 +129,6 @@ var map = {
 	],
 	"./the-design-systems-revolution-an-sndustry-story/page.mdx": [
 		"(rsc)/./src/app/articles/the-design-systems-revolution-an-sndustry-story/page.mdx",
-		"vendor-chunks/next",
-		"vendor-chunks/@swc",
 		"vendor-chunks/react",
 		"_rsc_src_app_articles_the-design-systems-revolution-an-sndustry-story_page_mdx"
 	],
@@ -1225,7 +1215,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/@floating-ui","vendor-chunks/@headlessui","vendor-chunks/@react-aria","vendor-chunks/tabbable","vendor-chunks/next-themes","vendor-chunks/clsx","vendor-chunks/picomatch","vendor-chunks/fast-glob","vendor-chunks/@nodelib","vendor-chunks/braces","vendor-chunks/micromatch","vendor-chunks/to-regex-range","vendor-chunks/fill-range","vendor-chunks/fastq","vendor-chunks/is-glob","vendor-chunks/merge2","vendor-chunks/run-parallel","vendor-chunks/reusify","vendor-chunks/is-extglob","vendor-chunks/is-number","vendor-chunks/queue-microtask"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=D%3A%5Cjay-dt%5Csrc%5Capp&pageExtensions=js&pageExtensions=jsx&pageExtensions=ts&pageExtensions=tsx&pageExtensions=mdx&rootDir=D%3A%5Cjay-dt&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@floating-ui","vendor-chunks/@headlessui","vendor-chunks/@react-aria","vendor-chunks/tabbable","vendor-chunks/next-themes","vendor-chunks/@swc","vendor-chunks/clsx","vendor-chunks/fast-glob","vendor-chunks/@nodelib","vendor-chunks/braces","vendor-chunks/picomatch","vendor-chunks/to-regex-range","vendor-chunks/run-parallel","vendor-chunks/reusify","vendor-chunks/queue-microtask","vendor-chunks/micromatch","vendor-chunks/merge2","vendor-chunks/is-number","vendor-chunks/is-glob","vendor-chunks/is-extglob","vendor-chunks/fill-range","vendor-chunks/fastq"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=D%3A%5Cjay-dt%5Csrc%5Capp&pageExtensions=js&pageExtensions=jsx&pageExtensions=ts&pageExtensions=tsx&pageExtensions=mdx&rootDir=D%3A%5Cjay-dt&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();
