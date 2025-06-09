@@ -1,25 +1,164 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/app/not-found-688c7cf583e058f3.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/app/_not-found/page-bdee37fb398b23c3.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/css/b0a69458c41f17c0.css",
+      "static/chunks/c16f53c3-730c38fe6e6be0a6.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/716-10e812d5b14021f1.js",
+      "static/chunks/app/layout-b61ab13016c1f1c3.js"
     ],
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/122-1860f74a0eecc6bd.js",
+      "static/chunks/app/page-ee594b383d1bdde3.js"
+    ],
+    "/articles/high-fidelity-prototype-revamping-chargebee/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/articles/high-fidelity-prototype-revamping-chargebee/page-5a6ca14180f9a8a4.js"
+    ],
+    "/articles/rebranding-transforming-digital-dentity/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/articles/rebranding-transforming-digital-dentity/page-54567f379933c2bf.js"
+    ],
+    "/articles/sting-ui-design-system-react-and-vue/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/articles/sting-ui-design-system-react-and-vue/page-7d0874aa20d04f4e.js"
+    ],
+    "/projects/high-fidelity-prototype-revamping-chargebee/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/projects/high-fidelity-prototype-revamping-chargebee/page-bf13fbd365687669.js"
+    ],
+    "/articles/achieving-multi-product-unified-experience/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/articles/achieving-multi-product-unified-experience/page-1caae82ede68fba7.js"
+    ],
+    "/articles/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/122-1860f74a0eecc6bd.js",
+      "static/chunks/app/articles/page-54a3293820a429dc.js"
     ],
     "/articles/the-design-systems-revolution-an-sndustry-story/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/articles/the-design-systems-revolution-an-sndustry-story/page.js"
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/articles/the-design-systems-revolution-an-sndustry-story/page-2ad14466970af688.js"
+    ],
+    "/projects/achieving-multi-product-unified-experience/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/projects/achieving-multi-product-unified-experience/page-58c3b2b1baa37538.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/app/about/page-d2379b405daf29f8.js"
+    ],
+    "/projects/sting-ui-design-system-react-and-vue/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/projects/sting-ui-design-system-react-and-vue/page-1cce9d399327861e.js"
+    ],
+    "/projects/rebranding-transforming-digital-dentity/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/app/projects/rebranding-transforming-digital-dentity/page-50a81fc200b7d204.js"
+    ],
+    "/thank-you/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/app/thank-you/page-e8944c305a08f453.js"
+    ],
+    "/uses/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/app/uses/page-4c91f1c5a065de91.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/878-4ee912805978898c.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/app/projects/page-e38b04406521f8af.js"
+    ],
+    "/speaking/page": [
+      "static/chunks/webpack-6b4cb36519a9a006.js",
+      "static/chunks/fd9d1056-2f3a6374d0528735.js",
+      "static/chunks/117-23f049b8900def4b.js",
+      "static/chunks/main-app-ae09a3a18663d90a.js",
+      "static/chunks/972-c6f6a11f4ce81a0c.js",
+      "static/chunks/app/speaking/page-61067ce2d9d9cb59.js"
     ]
   }
 }

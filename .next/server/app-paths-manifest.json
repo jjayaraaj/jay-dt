@@ -1,4 +1,21 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/feed.xml/route": "app/feed.xml/route.js",
   "/page": "app/page.js",
-  "/articles/the-design-systems-revolution-an-sndustry-story/page": "app/articles/the-design-systems-revolution-an-sndustry-story/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/articles/high-fidelity-prototype-revamping-chargebee/page": "app/articles/high-fidelity-prototype-revamping-chargebee/page.js",
+  "/articles/rebranding-transforming-digital-dentity/page": "app/articles/rebranding-transforming-digital-dentity/page.js",
+  "/articles/sting-ui-design-system-react-and-vue/page": "app/articles/sting-ui-design-system-react-and-vue/page.js",
+  "/projects/high-fidelity-prototype-revamping-chargebee/page": "app/projects/high-fidelity-prototype-revamping-chargebee/page.js",
+  "/articles/achieving-multi-product-unified-experience/page": "app/articles/achieving-multi-product-unified-experience/page.js",
+  "/articles/page": "app/articles/page.js",
+  "/articles/the-design-systems-revolution-an-sndustry-story/page": "app/articles/the-design-systems-revolution-an-sndustry-story/page.js",
+  "/projects/achieving-multi-product-unified-experience/page": "app/projects/achieving-multi-product-unified-experience/page.js",
+  "/about/page": "app/about/page.js",
+  "/projects/sting-ui-design-system-react-and-vue/page": "app/projects/sting-ui-design-system-react-and-vue/page.js",
+  "/projects/rebranding-transforming-digital-dentity/page": "app/projects/rebranding-transforming-digital-dentity/page.js",
+  "/thank-you/page": "app/thank-you/page.js",
+  "/uses/page": "app/uses/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/speaking/page": "app/speaking/page.js"
 }
