@@ -1,0 +1,43 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+import designSystem from './planetaria-design-system.png'
+import sting from './sting.jpg'
+
+export const article = {
+  author: 'Adam Wathan',
+  date: '2024-02-01',
+  title: 'AI Powered Design System - MCP Server',
+  description: 'Design System MCP Server bridges the gap between AI prototyping and production by leveraging the Model Context Protocol (MCP). It provides a standardized way for AI models to access, utilize, and generate design system components and guidelines. ',
+}
+
+export const metadata = {
+  title: article.title,
+  description: article.description,
+}
+
+export default (props) => <ArticleLayout article={article} {...props} />
+
+### Overview
+
+The Sting UI design system is a groundbreaking project at Chargebee, developed to streamline the design and development process for both React and Vue applications. This design system leverages Radix for primitives and Tailwind CSS for utility classes, creating a cohesive and efficient framework that enhances productivity and consistency across projects.
+
+<Image src={sting} />
+
+**Technical Implementation:**
+
+- **Radix Primitives:** Utilized Radix to provide a set of unstyled, accessible UI primitives that serve as the building blocks for the design system.
+- **Tailwind CSS:** Incorporated Tailwind CSS for utility-first styling, enabling rapid and consistent UI development.
+- **Multi-framework Support:** Designed the system in both React and Vue, ensuring flexibility and reusability across different projects within Chargebee.
+
+**Impact and Metrics:**
+
+- **Reduction in Development Time:** The Sting UI design system significantly reduced the development time by 40%. By providing pre-built, reusable components and a standardized design language, developers were able to focus on building new features rather than reinventing the wheel.
+- **Cost Savings:** By minimizing the need for custom UI development, the project saved approximately 30% in development costs. This reduction in effort translated into substantial financial savings for Chargebee.
+- **Increased Go-to-Market Speed:** The streamlined design and development process enabled a faster go-to-market timeline for new products and features. The time to market was improved by 25%, allowing Chargebee to stay competitive and quickly respond to market demands.
+- **Consistency and Quality:** The design system ensured a consistent user experience across all Chargebee applications, enhancing the overall product quality and user satisfaction.
+
+**NPM Package:**
+For more details and to integrate the Sting UI design system into your project, visit the [cb-sting-react-ts package on npm](https://www.npmjs.com/package/cb-sting-react-ts).
+
+### Conclusion
+
+The Sting UI design system has proven to be a valuable asset for Chargebee, delivering measurable improvements in development efficiency, cost savings, and speed to market. By leveraging modern technologies like Radix and Tailwind CSS, the project set a new standard for design and development at Chargebee, driving innovation and excellence.

@@ -11,7 +11,17 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 import logSting from '@/images/logos/sting.svg'
 import logotailwind from '@/images/logos/tailwind.svg'
 
-const projects = [
+const getAllProjects = [
+  {
+    name: 'Design System AI powered:  MCP Server',
+    description:
+     ' Design System MCP Server bridges the gap between AI prototyping and production by leveraging the Model Context Protocol (MCP). It provides a standardized way for AI models to access, utilize, and generate design system components and guidelines. ',
+    link: {
+      href: '/projects/design-system-mcp-server',
+      label: '',
+    },
+    logo: logoPlanetaria,
+  },
   {
     name: 'High-Fidelity Prototype: Revamping Chargebee',
     description:
@@ -80,7 +90,7 @@ export default function Projects() {
         role="list"
         className="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3"
       >
-        {projects.map((project) => (
+        {getAllProjects.map((project) => (
           <Card as="li" key={project.name}>
             <div className="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
               <Image
